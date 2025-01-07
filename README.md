@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **REACT, NEXT.JS, NODE.JS, REMIX, etc**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **yojankaphle80@gmail.com**
 
